@@ -1,0 +1,46 @@
+{
+    "active_events": {
+      ["Luck", "Date(02/08/2022)", 50]
+    },
+    
+    "codes": [
+        {
+            "release": {
+                "RewardType": "Boost",
+                "RewardName": "2xYen",
+                "Reward": 300
+            },
+            "feelinglucky": {
+                "RewardType": "Boost",
+                "RewardName": "2xLuck",
+                "Reward": 300
+            },
+            "thankyou": {
+                "RewardType": "Boost",
+                "RewardName": "2xYen",
+                "Reward": 600
+            },
+            "getrichquick": {
+                "RewardType": "Boost",
+                "RewardName": "2xYen",
+                "Reward": 150
+            },
+            "moneyglitch": {
+                "RewardType": "Boost",
+                "RewardName":  "2xYen",
+                "Reward": 600
+            },
+            "sorry4wait": {
+                "RewardType": "Boost",
+                "RewardName":  "2xDamage",
+                "Reward": 150
+            }
+        }
+    ],
+
+    "exclude_versions": [
+    ],
+
+    "outdated_versions": [
+    ]
+}
