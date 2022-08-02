@@ -11,6 +11,19 @@
           "hour": 13,
           "minute": 0
         }
+      },
+        
+      {
+        "type": "Yen", 
+        "text": "2x Yen",
+        "amount": 2, 
+        "endDate": {
+          "year": 2022,
+          "month": 8,
+          "day": 2,
+          "hour": 13,
+          "minute": 0
+        }
       }
     ],
     
