@@ -2,6 +2,7 @@
     "active_events": [
       {
         "type": "Luck", 
+        "text": "2x Luck",
         "amount": 20, 
         "endDate": {
           "year": 2022,
