@@ -7,9 +7,9 @@
         "endDate": {
           "year": 2022,
           "month": 8,
-          "day": 2,
-          "hour": 13,
-          "min": 29
+          "day": 3,
+          "hour": 15,
+          "min": 0
         }
       }
     ],
@@ -44,6 +44,11 @@
             "RewardType": "Boost",
             "RewardName":  "2xDamage",
             "Reward": 150
+        },
+        "bigbucks": {
+            "RewardType": "Boost",
+            "RewardName":  "2xYen",
+            "Reward": 300
         }
     },
 
