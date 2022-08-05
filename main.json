@@ -14,6 +14,11 @@
       }
     ],
     
+    "like_goal_data": {
+        "active_code_text": "10k code: bigbucks",
+        "goal": "15k"
+    },
+    
     "codes": {
         "release": {
             "RewardType": "Boost",
@@ -48,6 +53,11 @@
         "bigbucks": {
             "RewardType": "Boost",
             "RewardName":  "2xYen",
+            "Reward": 300
+        },
+        "superstrength": {
+            "RewardType": "Boost",
+            "RewardName":  "2xDamage",
             "Reward": 300
         }
     },
