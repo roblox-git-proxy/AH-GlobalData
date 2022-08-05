@@ -1,18 +1,11 @@
 {
     "active_events": [
-      {
-        "type": "Luck", 
-        "text": "2x Luck",
-        "amount": 30, 
-        "endDate": {
-          "year": 2022,
-          "month": 8,
-          "day": 5,
-          "hour": 15,
-          "min": 0
-        }
-      }
     ],
+    
+    "like_goal_data": {
+        "active_code_text": "10k likes code: bigbucks",
+        "goal": "15k"
+    },
     
     "codes": {
         "release": {
@@ -49,6 +42,11 @@
             "RewardType": "Boost",
             "RewardName":  "2xYen",
             "Reward": 300
+        },
+        "superstrength": {
+            "RewardType": "Boost",
+            "RewardName":  "2xDamage",
+            "Reward": 300
         }
     },
 
@@ -56,5 +54,6 @@
     ],
 
     "outdated_versions": [
+        "1.3.2"
     ]
 }
