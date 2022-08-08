@@ -1,13 +1,13 @@
 {
     "active_events": [
       {
-        "type": "Luck", 
-        "text": "2x Luck",
-        "amount": 30, 
+        "type": "Yen", 
+        "text": "2x Yen",
+        "amount": 2, 
         "endDate": {
           "year": 2022,
           "month": 8,
-          "day": 5,
+          "day": 12,
           "hour": 15,
           "min": 0
         }
@@ -15,8 +15,8 @@
     ],
     
     "like_goal_data": {
-        "active_code_text": "10k likes code: bigbucks",
-        "goal": "15k"
+        "active_code_text": "15k likes code: superstrength",
+        "goal": "20k"
     },
     
     "codes": {
@@ -66,5 +66,7 @@
     ],
 
     "outdated_versions": [
+        "1.3.2",
+        "1.3.3"
     ]
 }
