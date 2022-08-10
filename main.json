@@ -15,8 +15,8 @@
     ],
     
     "like_goal_data": {
-        "active_code_text": "15k likes code: superstrength",
-        "goal": "20k"
+        "active_code_text": "20k likes code: goodluck",
+        "goal": "25k"
     },
     
     "codes": {
@@ -59,6 +59,11 @@
             "RewardType": "Boost",
             "RewardName":  "2xDamage",
             "Reward": 300
+        },
+        "goodluck": {
+            "RewardType": "Boost",
+            "RewardName":  "2xLuck",
+            "Reward": 600
         }
     },
 
