@@ -1,13 +1,13 @@
 {
     "active_events": [
       {
-        "type": "Yen", 
-        "text": "2x Yen",
-        "amount": 2, 
+        "type": "Luck", 
+        "text": "2x Luck",
+        "amount": 25, 
         "endDate": {
           "year": 2022,
           "month": 8,
-          "day": 9,
+          "day": 13,
           "hour": 15,
           "min": 0
         }
