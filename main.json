@@ -15,8 +15,8 @@
     ],
     
     "like_goal_data": {
-        "active_code_text": "20k likes code: goodluck",
-        "goal": "25k"
+        "active_code_text": "25k likes code: burstultra",
+        "goal": "30k"
     },
     
     "codes": {
@@ -63,6 +63,11 @@
         "goodluck": {
             "RewardType": "Boost",
             "RewardName":  "2xLuck",
+            "Reward": 600
+        },
+        "burstultra": {
+            "RewardType": "Boost",
+            "RewardName":  "2xDamage",
             "Reward": 600
         }
     },
