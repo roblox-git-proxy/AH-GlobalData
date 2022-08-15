@@ -2,7 +2,7 @@
     "active_events": [
       {
         "type": "SecretLuck", 
-        "text": "3x Secret Luck",
+        "text": "5x Secret Luck",
         "amount": 3, 
         "endDate": {
           "year": 2022,
