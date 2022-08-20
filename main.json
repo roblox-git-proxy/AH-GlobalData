@@ -15,8 +15,8 @@
     ],
     
     "like_goal_data": {
-        "active_code_text": "25k likes code: burstultra",
-        "goal": "30k"
+        "active_code_text": "30k likes code: nolimit",
+        "goal": "35k"
     },
     
     "codes": {
@@ -69,6 +69,11 @@
             "RewardType": "Boost",
             "RewardName":  "2xDamage",
             "Reward": 600
+        },
+        "nolimit": {
+            "RewardType": "Boost",
+            "RewardName":  "2xDamage",
+            "Reward": 900
         }
     },
 
@@ -76,7 +81,5 @@
     ],
 
     "outdated_versions": [
-        "1.4.2",
-        "1.4.3"
     ]
 }
