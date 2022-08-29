@@ -28,8 +28,8 @@
     ],
     
     "like_goal_data": {
-        "active_code_text": "30k likes code: nolimit",
-        "goal": "35k"
+        "active_code_text": "35k likes code: veryrich",
+        "goal": "40k"
     },
     
     "codes": {
@@ -87,6 +87,11 @@
             "RewardType": "Boost",
             "RewardName":  "2xDamage",
             "Reward": 900
+        },
+        "veryrich": {
+            "RewardType": "Boost",
+            "RewardName":  "2xYen",
+            "Reward": 600
         }
     },
 
