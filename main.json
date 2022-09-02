@@ -6,8 +6,8 @@
         "amount": 5, 
         "endDate": {
           "year": 2022,
-          "month": 8,
-          "day": 31,
+          "month": 9,
+          "day": 5,
           "hour": 15,
           "min": 0
         }
@@ -19,8 +19,21 @@
         "amount": 5, 
         "endDate": {
           "year": 2022,
-          "month": 8,
-          "day": 31,
+          "month": 9,
+          "day": 5,
+          "hour": 15,
+          "min": 0
+        }
+      },
+
+      {
+        "type": "Luck", 
+        "text": "5x Luck",
+        "amount": 35, 
+        "endDate": {
+          "year": 2022,
+          "month": 9,
+          "day": 5,
           "hour": 15,
           "min": 0
         }
