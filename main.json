@@ -1,23 +1,13 @@
 {
     "active_events": [
-      {
-        "type": "SecretLuck", 
-        "text": "3x Secret Luck",
-        "amount": 3, 
-        "endDate": {
-          "year": 2022,
-          "month": 8,
-          "day": 17,
-          "hour": 15,
-          "min": 0
-        }
-      }
     ],
     
     "like_goal_data": {
-        "active_code_text": "25k likes code: burstultra",
-        "goal": "30k"
+        "active_code_text": "35k likes code: veryrich",
+        "goal": "40k"
     },
+    
+    "ancient_chance": 1500000,
     
     "codes": {
         "release": {
@@ -69,6 +59,16 @@
             "RewardType": "Boost",
             "RewardName":  "2xDamage",
             "Reward": 600
+        },
+        "nolimit": {
+            "RewardType": "Boost",
+            "RewardName":  "2xDamage",
+            "Reward": 900
+        },
+        "veryrich": {
+            "RewardType": "Boost",
+            "RewardName":  "2xYen",
+            "Reward": 600
         }
     },
 
@@ -76,7 +76,6 @@
     ],
 
     "outdated_versions": [
-        "1.4.2",
-        "1.4.3"
+        "1.7.0"
     ]
 }
