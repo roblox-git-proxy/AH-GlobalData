@@ -1,49 +1,13 @@
 {
     "active_events": [
-      {
-        "type": "Yen", 
-        "text": "5x Yen",
-        "amount": 5, 
-        "endDate": {
-          "year": 2022,
-          "month": 9,
-          "day": 5,
-          "hour": 15,
-          "min": 0
-        }
-      },
-      
-      {
-        "type": "Damage", 
-        "text": "5x Damage",
-        "amount": 5, 
-        "endDate": {
-          "year": 2022,
-          "month": 9,
-          "day": 5,
-          "hour": 15,
-          "min": 0
-        }
-      },
-
-      {
-        "type": "Luck", 
-        "text": "5x Luck",
-        "amount": 35, 
-        "endDate": {
-          "year": 2022,
-          "month": 9,
-          "day": 5,
-          "hour": 15,
-          "min": 0
-        }
-      }
     ],
     
     "like_goal_data": {
         "active_code_text": "35k likes code: veryrich",
         "goal": "40k"
     },
+    
+    "ancient_chance": 1500000,
     
     "codes": {
         "release": {
@@ -112,6 +76,5 @@
     ],
 
     "outdated_versions": [
-        "1.7.0"
     ]
 }
