@@ -69,6 +69,11 @@
             "RewardType": "Boost",
             "RewardName":  "2xYen",
             "Reward": 600
+        },
+        "randomseed": {
+            "RewardType": "Boost",
+            "RewardName": "2xLuck",
+            "Reward": 1800
         }
     },
 
@@ -76,5 +81,7 @@
     ],
 
     "outdated_versions": [
+        "1.8.0",
+        "1.8.1"
     ]
 }
