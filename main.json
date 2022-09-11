@@ -1,87 +1,109 @@
 {
-    "active_events": [
-    ],
-    
-    "like_goal_data": {
-        "active_code_text": "35k likes code: veryrich",
-        "goal": "40k"
+  "active_events": [
+    {
+      "type": "Yen",
+      "text": "5x Yen",
+      "amount": 5,
+      "endDate": {
+        "year": 2022,
+        "month": 9,
+        "day": 14,
+        "hour": 15,
+        "min": 0
+      }
     },
-    
-    "ancient_chance": 1500000,
-    
-    "codes": {
-        "release": {
-            "RewardType": "Boost",
-            "RewardName": "2xYen",
-            "Reward": 300
-        },
-        "feelinglucky": {
-            "RewardType": "Boost",
-            "RewardName": "2xLuck",
-            "Reward": 300
-        },
-        "thankyou": {
-            "RewardType": "Boost",
-            "RewardName": "2xYen",
-            "Reward": 600
-        },
-        "getrichquick": {
-            "RewardType": "Boost",
-            "RewardName": "2xYen",
-            "Reward": 150
-        },
-        "moneyglitch": {
-            "RewardType": "Boost",
-            "RewardName":  "2xYen",
-            "Reward": 600
-        },
-        "sorry4wait": {
-            "RewardType": "Boost",
-            "RewardName":  "2xDamage",
-            "Reward": 150
-        },
-        "bigbucks": {
-            "RewardType": "Boost",
-            "RewardName":  "2xYen",
-            "Reward": 300
-        },
-        "superstrength": {
-            "RewardType": "Boost",
-            "RewardName":  "2xDamage",
-            "Reward": 300
-        },
-        "goodluck": {
-            "RewardType": "Boost",
-            "RewardName":  "2xLuck",
-            "Reward": 600
-        },
-        "burstultra": {
-            "RewardType": "Boost",
-            "RewardName":  "2xDamage",
-            "Reward": 600
-        },
-        "nolimit": {
-            "RewardType": "Boost",
-            "RewardName":  "2xDamage",
-            "Reward": 900
-        },
-        "veryrich": {
-            "RewardType": "Boost",
-            "RewardName":  "2xYen",
-            "Reward": 600
-        },
-        "randomseed": {
-            "RewardType": "Boost",
-            "RewardName": "2xLuck",
-            "Reward": 1800
-        }
+    {
+      "type": "Damage",
+      "text": "5x Damage",
+      "amount": 5,
+      "endDate": {
+        "year": 2022,
+        "month": 9,
+        "day": 14,
+        "hour": 15,
+        "min": 0
+      }
+    }
+  ],
+  
+  "like_goal_data": {
+    "active_code_text": "35k likes code: veryrich",
+    "goal": "40k"
+  },
+  
+  "ancient_chance": 1500000,
+  
+  "codes": {
+    "release": {
+      "RewardType": "Boost",
+      "RewardName": "2xYen",
+      "Reward": 300
     },
-
-    "exclude_versions": [
-    ],
-
-    "outdated_versions": [
-        "1.8.0",
-        "1.8.1"
-    ]
+    "feelinglucky": {
+      "RewardType": "Boost",
+      "RewardName": "2xLuck",
+      "Reward": 300
+    },
+    "thankyou": {
+      "RewardType": "Boost",
+      "RewardName": "2xYen",
+      "Reward": 600
+    },
+    "getrichquick": {
+      "RewardType": "Boost",
+      "RewardName": "2xYen",
+      "Reward": 150
+    },
+    "moneyglitch": {
+      "RewardType": "Boost",
+      "RewardName": "2xYen",
+      "Reward": 600
+    },
+    "sorry4wait": {
+      "RewardType": "Boost",
+      "RewardName": "2xDamage",
+      "Reward": 150
+    },
+    "bigbucks": {
+      "RewardType": "Boost",
+      "RewardName": "2xYen",
+      "Reward": 300
+    },
+    "superstrength": {
+      "RewardType": "Boost",
+      "RewardName": "2xDamage",
+      "Reward": 300
+    },
+    "goodluck": {
+      "RewardType": "Boost",
+      "RewardName": "2xLuck",
+      "Reward": 600
+    },
+    "burstultra": {
+      "RewardType": "Boost",
+      "RewardName": "2xDamage",
+      "Reward": 600
+    },
+    "nolimit": {
+      "RewardType": "Boost",
+      "RewardName": "2xDamage",
+      "Reward": 900
+    },
+    "veryrich": {
+      "RewardType": "Boost",
+      "RewardName": "2xYen",
+      "Reward": 600
+    },
+    "randomseed": {
+      "RewardType": "Boost",
+      "RewardName": "2xLuck",
+      "Reward": 1800
+    }
+  },
+  
+  "exclude_versions": [],
+  "outdated_versions": [
+    "1.8.0",
+    "1.8.1"
+  ]
 }
