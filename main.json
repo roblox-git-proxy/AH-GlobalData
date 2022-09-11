@@ -11,6 +11,18 @@
         "hour": 15,
         "min": 0
       }
+    },
+    {
+      "type": "Damage",
+      "text": "5x Damage",
+      "amount": 5,
+      "endDate": {
+        "year": 2022,
+        "month": 9,
+        "day": 14,
+        "hour": 15,
+        "min": 0
+      }
     }
   ],
   
