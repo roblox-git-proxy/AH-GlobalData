@@ -1,25 +1,13 @@
 {
   "active_events": [
     {
-      "type": "Yen",
-      "text": "5x Yen",
-      "amount": 5,
+      "type": "SwordLuck",
+      "text": "5x Sword Luck",
+      "amount": 0.5,
       "endDate": {
         "year": 2022,
         "month": 9,
-        "day": 14,
-        "hour": 15,
-        "min": 0
-      }
-    },
-    {
-      "type": "Damage",
-      "text": "5x Damage",
-      "amount": 5,
-      "endDate": {
-        "year": 2022,
-        "month": 9,
-        "day": 14,
+        "day": 19,
         "hour": 15,
         "min": 0
       }
@@ -98,7 +86,5 @@
   
   "exclude_versions": [],
   "outdated_versions": [
-    "1.8.0",
-    "1.8.1"
   ]
 }
